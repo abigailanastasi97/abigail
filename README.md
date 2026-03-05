@@ -26,7 +26,7 @@ The API was tested using **Postman** and the project runs using **Docker with Ma
 1. Clone the repository
 
 ```
-git clone https://github.com/abigailanastasi97/abigail.git
+git clone https://github.com/abigailanastasi97/abigail
 ```
 
 2. Navigate into the project folder
